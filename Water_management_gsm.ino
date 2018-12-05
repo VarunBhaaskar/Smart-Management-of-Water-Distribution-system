@@ -10,8 +10,8 @@ int distance();
   
 #define tank_height 1000      //constant in cm   
 #define tank_volume 20000      //constant 
-long avg_consumption=0;  //per day avg consumption ( must change acc to seasons )
-long family=0;           //fairly constant
+long avg_consumption=??;  //replace ?? according to seasons //it shows the average water consumption of a family per day
+long family=??;           //replace ?? with no of families in the area
 double timehigh=0;
 double timelow=0;
 double fillrate=0;
