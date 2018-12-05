@@ -4,7 +4,7 @@ const int trigPin = 7;
   
   #define tank_height 2000  //in cm
   #define tank_volume 20000   // in litres
-  long avg_consumption=0;
+  long avg_consumption=??;    //replace the ?? according to sesaons
   long family=0;
    double timehigh=0;
    double timelow=0;
